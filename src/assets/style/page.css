@@ -1,0 +1,19 @@
+:root {
+  --men-primary: #002772;
+  --women-primary: #720060;
+  --men-bg: #D6E6FF;
+  --women-bg: #FDE2FF;
+  --unavailable-bg: #D8D8D8;
+}
+
+.page-men {
+  background-color: var(--men-bg);
+}
+
+.page-women {
+  background-color: var(--women-bg);
+}
+
+.page-unavailable {
+  background-color: var(--unavailable-bg);
+}
